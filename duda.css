@@ -1,0 +1,21 @@
+.loremar{
+    background-color: violet;
+}
+h1 {
+    text-align: center;
+}
+h2{
+    background-color: khaki;
+}
+.lista{
+    display:inline-block;
+    margin: 0 16px;
+}
+
+.eduarda{
+    display: inline-block
+    margin: 0 16px
+}
+.academia{
+    width: 20%;
+}

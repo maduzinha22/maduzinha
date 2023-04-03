@@ -1,23 +1,16 @@
-.duda{
-    background-color: rgb(68, 117, 163);
-    text-align: center;
+.maduzinha{
+    background-color: aqua;
 }
 .pato{
-    display: inline-block;
-    margin: 0 5px;
-    
+    font-size: 30px;
 }
- h5{
-    font-size: 20px;
- }
- h3{
-    font-size: 20px;
- }
- h4{
-    font-size: 20px;
- }
- .maduzinha{
-    background-color: rgb(68, 117, 163);
- }
- 
- 
+ul{
+   display: inline-block;
+   margin: 0 16px;
+}
+
+footer{
+    background-color: black;
+}
+
+   

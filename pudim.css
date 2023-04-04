@@ -1,16 +1,7 @@
 .maduzinha{
-    background-color: aqua;
+    background-color:rgb(96, 143, 165);
+    text-align: center;
 }
 .pato{
-    font-size: 30px;
+    background-color: rgb(96, 143, 165);
 }
-ul{
-   display: inline-block;
-   margin: 0 16px;
-}
-
-footer{
-    background-color: black;
-}
-
-   

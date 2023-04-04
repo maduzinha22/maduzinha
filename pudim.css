@@ -1,7 +1,35 @@
 .maduzinha{
-    background-color:rgb(96, 143, 165);
-    text-align: center;
+    background-color:rgb(137,172,204);
+    text-align: center
 }
 .pato{
-    background-color: rgb(96, 143, 165);
+    background-color: rgb(137,172,204);
+}
+.dudama{
+    width: 90px;
+}
+footer{
+    background-color: rgb(137, 172, 204);
+}
+h5{
+    font-size: 20px;
+}
+h4{
+    font-size: 20px;
+}
+h3{
+    font-size: 20px;
+}
+.gato{
+    display: inline-block;
+    background-color:white;
+    margin: 10px;
+}
+.copo{
+    display: inline-block;
+    background-color:white ;
+    margin: 20px;
+}
+img{
+    width: 50%;
 }
